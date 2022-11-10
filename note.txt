@@ -1,2 +1,1 @@
-addd text
-check turn 2
+delete content
